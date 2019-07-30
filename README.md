@@ -51,3 +51,6 @@ I used Nearon dropout to increase the performance. The dropout rate I used is 0.
  Finally I also attached a part of code to output a color image of the first image in the folder.
  
  
+# References
+
+[1]A. Géron, Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O’Reilly Media, 2017.
