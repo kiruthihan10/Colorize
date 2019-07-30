@@ -5,6 +5,15 @@ I used Tensorflow to create a deep neaural network with Convelution Neaural Netw
 
 I also Attached the trained meta graph in this respitory.
 
+# Used Libraries
+
+1. Tensorflow
+2. PIL
+3. math
+4. time
+5. numpy
+6. glob
+
 # Train
 To train the graph You can use color Images with resolution of 2304*1728.
 
